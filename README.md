@@ -1,5 +1,7 @@
 # translator
 
+[![CircleCI](https://circleci.com/gh/gocn/translator/tree/master.svg?style=svg)](https://circleci.com/gh/gocn/translator/tree/master)
+
 翻译小组文章
 
 
